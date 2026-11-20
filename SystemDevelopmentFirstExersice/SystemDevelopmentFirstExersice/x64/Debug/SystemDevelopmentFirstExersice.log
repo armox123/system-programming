@@ -1,0 +1,4 @@
+﻿  SystemDevelopmentFirstExersice.cpp
+C:\Users\armox\source\repos\SystemDevelopmentFirstExersice\SystemDevelopmentFirstExersice\SystemDevelopmentFirstExersice.cpp(61,41): warning C4244: =: преобразование "DWORDLONG" в "double", возможна потеря данных
+C:\Users\armox\source\repos\SystemDevelopmentFirstExersice\SystemDevelopmentFirstExersice\SystemDevelopmentFirstExersice.cpp(62,42): warning C4244: =: преобразование "DWORDLONG" в "double", возможна потеря данных
+  SystemDevelopmentFirstExersice.vcxproj -> C:\Users\armox\source\repos\SystemDevelopmentFirstExersice\x64\Debug\SystemDevelopmentFirstExersice.exe
